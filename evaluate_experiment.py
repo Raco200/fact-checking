@@ -1,4 +1,3 @@
-cat > src/evaluate_experiment.py <<'PY'
 import argparse
 import math
 import time
