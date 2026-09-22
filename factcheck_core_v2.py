@@ -151,4 +151,4 @@ class FactChecker:
             "evidence_text": evidence_text,
             "probs": probs,
         }
-EOF
+
